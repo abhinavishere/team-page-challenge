@@ -104,6 +104,7 @@ footer{
         color: var(--gray);
         a{
             color: var(--black);
+            font-weight: 500;
         }
         font-size: 0.825rem;
     }
@@ -169,6 +170,11 @@ footer{
     .grid{
         width: 75%;
         gap: 3em;
+    }
+    footer{
+        h2{
+            font-size: 1rem;
+        }
     }
 }
 
